@@ -52,4 +52,3 @@ Feel free to get in touch:
 - ✉️ Email: [lucas.nascimento@rede.ulbra.br](mailto:lucas.nascimento@rede.ulbra.br)  
 - 📷 Instagram: [@lukas_nascky](https://www.instagram.com/lukas_nascky/)  
 - 💼 LinkedIn: [Lucas da Silva Nascimento](https://www.linkedin.com/in/lucas-da-silva-nascimento-1720302a3/)
-
