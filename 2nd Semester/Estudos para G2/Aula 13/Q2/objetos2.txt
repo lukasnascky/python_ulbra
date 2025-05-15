@@ -1,0 +1,9 @@
+abajur:3
+mesa:1
+cadeira:1
+quadro:1
+caneta:4
+prato:2
+borracha:1
+
+O objeto que aparece em maior quantidade é o(a) caneta.

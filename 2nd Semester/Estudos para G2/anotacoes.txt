@@ -1,0 +1,5 @@
+inverso_dicionario = {v: k for k, v in dicionario.items()} 
+### inverte o dicionário (chave: valor > valor: chave)
+
+replace(old, new) - manipulação de string
+###

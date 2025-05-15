@@ -1,0 +1,18 @@
+{
+    "0001": {
+        "titulo": "Rosinha",
+        "autor": "Lara de Catro",
+        "genero": "Romance",
+        "preco_compra": "12",
+        "preco_venda": "39.99",
+        "qtd": "18"
+    },
+    "0002": {
+        "titulo": "Amar e para Tolos",
+        "autor": "Jorge Amado",
+        "genero": "Documentario",
+        "preco_compra": "20",
+        "preco_venda": "49.99",
+        "qtd": "52"
+    }
+}

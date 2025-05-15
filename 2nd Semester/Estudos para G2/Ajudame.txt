@@ -1,0 +1,46 @@
+### traduzir ###
+
+def traduzir_ingles_portugues(dicionario, frase):
+    palavras = frase.split()
+    traducao = []
+    for palavra in palavras:
+        if palavra.lower() in dicionario:
+            traducao.append(dicionario[palavra.lower()])
+        else:
+            nova_traducao = input(f"A tradução de '{palavra}' não foi encontrada. Por favor, insira a tradução: ")
+            cadastrar_traducao(dicionario, palavra, nova_traducao)
+            traducao.append(nova_traducao.lower())
+    return ' '.join(traducao)
+
+
+
+### traduzir ao contrario ###
+
+def traduzir_portugues_ingles(dicionario, frase):
+    inverso_dicionario = {v: k for k, v in dicionario.items()}
+    palavras = frase.split()
+    traducao = []
+    for palavra in palavras:
+        if palavra.lower() in inverso_dicionario:
+            traducao.append(inverso_dicionario[palavra.lower()])
+        else:
+            nova_traducao = input(f"A tradução de '{palavra}' não foi encontrada. Por favor, insira a tradução: ")
+            cadastrar_traducao(dicionario, nova_traducao, palavra)
+            traducao.append(nova_traducao.lower())
+    return ' '.join(traducao)
+
+
+### ordem alfabetica dos valores ###
+
+def exibir_dicionario_alfabetico(dicionario):
+    for palavra in sorted(dicionario, key=dicionario.get):
+        print(f"{palavra} – {dicionario[palavra]}")
+
+
+
+### maiores palavras cadastradas ###
+
+def exibir_maiores_palavras(dicionario):
+    palavras_ordenadas = sorted(dicionario, key=lambda k: len(dicionario[k]), reverse=True)
+    for palavra in palavras_ordenadas:
+        print(f"{palavra} – {dicionario[palavra]}")
