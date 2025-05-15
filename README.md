@@ -1,44 +1,55 @@
 # 🐍 Python - ULBRA Palmas
 
-Bem-vindo ao repositório de atividades e projetos desenvolvidos durante o curso de **Ciência da Computação** na **Universidade Luterana do Brasil (ULBRA), campus Palmas**.
+Welcome to the repository of activities and projects developed during the **Computer Science** course at the **Lutheran University of Brazil (ULBRA), Palmas campus**.
 
-Este repositório está organizado em seções para facilitar a navegação, localização e manutenção dos arquivos nele presentes.
+This repository is organized into sections to facilitate navigation, file discovery, and maintenance.
 
-- [Primeiro Semestre](#-primeiro-semestre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Contato](#-contato)
-
----
-
-## 📚 Primeiro Semestre
-
-Nesta pasta você encontrará as atividades desenvolvidas durante a disciplina de **Algoritmos e Programação**, incluindo os principais conceitos aprendidos ao longo do semestre:
-
-- Fundamentos da linguagem **Python**;
-- Princípios de **lógica de programação**;
-- Utilização de **estruturas simples** (condicionais, laços, variáveis, etc).
+- [First Semester](#-first-semester)
+- [Technologies Used](#-technologies-used)
+- [Author & Contact](#-author--contact)
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+## 📚 First Semester
 
-- [Python](https://www.python.org/) - Linguagem de programação principal
-- [Git](https://git-scm.com/) - Controle de versão
-- [Visual Studio Code](https://code.visualstudio.com/) - Ambiente de desenvolvimento
+This folder contains the activities developed during the **Algorithms and Programming** course, taught by [Professor Douglas](http://lattes.cnpq.br/3312128594028941).
+
+### 📌 Topics Covered
+
+- **Python Fundamentals**  
+  Introduction to syntax, variables, data types, and basic operations.
+
+- **Programming Logic**  
+  Problem-solving techniques using flowcharts, pseudocode, and logical reasoning.
+
+- **Control Structures**  
+  Usage of conditionals (`if`, `else`, `elif`) and loop (`while`).
+
+- **Basic Input and Output**  
+  Handling user input and displaying results with `input()` and `print()`.
+
+- **Simple Algorithms**  
+  Writing clear and structured solutions for elementary problems.
+
+> All exercises and materials reflect what was taught during the first semester of the Computer Science course at ULBRA Palmas.
 
 ---
 
-## 🧑‍💻 Autor
+## 🧪 Technologies Used
 
-Este repositório bem como os códigos contidos nele foram criados e desenvolvidos por Lucas da Silva Nascimento.
-- **Lukas Nascky** - [@lukasnascky](https://github.com/lukasnascky)
+- [Python](https://www.python.org/) – Main programming language  
+- [Git](https://git-scm.com/) – Version control  
+- [Visual Studio Code](https://code.visualstudio.com/) – Development environment  
 
 ---
 
-## 📞 Contato
+## 👤 Author & Contact
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+Developed by **Lucas da Silva Nascimento** – [@lukasnascky](https://github.com/lukasnascky)  
 
-- Email: [lucas.nascimento@rede.ulbra.br](lucas.nascimento@rede.ulbra.br)
-- Instagram: [@lukas_nascky](https://www.instagram.com/lukas_nascky/)
-- LinkedIn: [Lucas da Silva Nascimento](https://www.linkedin.com/in/lucas-da-silva-nascimento-1720302a3/)
+Feel free to get in touch:
+
+- ✉️ Email: [lucas.nascimento@rede.ulbra.br](mailto:lucas.nascimento@rede.ulbra.br)  
+- 📷 Instagram: [@lukas_nascky](https://www.instagram.com/lukas_nascky/)  
+- 💼 LinkedIn: [Lucas da Silva Nascimento](https://www.linkedin.com/in/lucas-da-silva-nascimento-1720302a3/)
+
