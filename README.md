@@ -4,15 +4,16 @@ Welcome to the repository of activities and projects developed during the **Comp
 
 This repository is organized into sections to facilitate navigation, file discovery, and maintenance.
 
-- [First Semester](#-first-semester)
+- [1st Semester](#-1st-semester)
+- [2nd Semester](#-2nd-semester)
 - [Technologies Used](#-technologies-used)
 - [Author & Contact](#-author--contact)
 
 ---
 
-## 📚 First Semester
+## 📚 1st Semester
 
-This folder contains the activities developed during the **Algorithms and Programming** course, taught by [Professor Douglas](http://lattes.cnpq.br/3312128594028941).
+This folder contains the activities developed during the **Algorithms and Programming** course, taught by [Professor Douglas A. Moreno](http://lattes.cnpq.br/3312128594028941).
 
 ### 📌 Topics Covered
 
@@ -32,6 +33,43 @@ This folder contains the activities developed during the **Algorithms and Progra
   Writing clear and structured solutions for elementary problems.
 
 > All exercises and materials reflect what was taught during the first semester of the Computer Science course at ULBRA Palmas.
+
+---
+
+## 📘 2nd Semester
+
+This folder contains the activities developed during the **Laboratory of Programming** course, taught by [Professor Robson F. Gomes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do).
+
+### 📌 Topics Covered
+
+- **Programming Structures**  
+  Basic building blocks, conditional statements, and repetition structures (`for`, `while`, `if`, etc).
+
+- **Algorithm Modularization**  
+  Development and use of modules and user-defined functions.
+
+- **Parameter Passing**  
+  Understanding value vs. reference when passing parameters to functions.
+
+- **Data Types**  
+  Use of mutable and immutable types and how they behave in memory.
+
+- **Strings**  
+  String manipulation, slicing, and common methods.
+
+- **Lists**  
+  List creation, indexing, iteration, and built-in operations.
+
+- **Tuples**  
+  Tuple structure, immutability, and basic operations.
+
+- **Dictionaries**  
+  Key-value pairs, insertion, deletion, and iteration.
+
+- **File Handling**  
+  Reading from and writing to files using Python’s file operations.
+
+> All activities are based on content taught during the second semester of the Computer Science course at ULBRA Palmas.
 
 ---
 
