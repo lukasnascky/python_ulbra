@@ -6,6 +6,7 @@ This repository is organized into sections to facilitate navigation, file discov
 
 - [1st Semester](#-1st-semester)
 - [2nd Semester](#-2nd-semester)
+- [3rd Semester](#-3rd-semester)
 - [Technologies Used](#-technologies-used)
 - [Author & Contact](#-author--contact)
 
@@ -70,6 +71,47 @@ This folder contains the activities developed during the **Laboratory of Program
   Reading from and writing to files using Python’s file operations.
 
 > All activities are based on content taught during the second semester of the Computer Science course at ULBRA Palmas.
+
+---
+
+## 📗 3rd Semester
+
+This folder contains the activities developed during the **Data Structures** course, taught by [Professor Fabiano Fagundes](http://lattes.cnpq.br/7309417394410594).
+
+### 📌 Topics Covered
+
+- **Introduction to Data Structures**  
+  Understanding the purpose and organization of data structures.
+
+- **Abstract Data Types (ADTs)**  
+  Concept of ADTs and their relationship with programming languages.
+
+- **Lists**
+  - Static Lists  
+  - Sequential Static Lists  
+  - Dynamic Lists  
+  - Pointers and Objects  
+  - Singly Linked Lists  
+  - Doubly Linked Lists  
+
+- **Queues**
+  - Static Queues  
+  - Dynamic Queues  
+  - Queues Implemented with Lists  
+  - Priority Queues  
+
+- **Stacks**
+  - Static Stacks  
+  - Dynamic Stacks  
+  - Stacks Implemented with Lists  
+
+- **Trees**
+  - Basic Concepts of Recursion  
+  - Binary Trees  
+  - Binary Search Trees  
+  - Balanced Binary Search Trees  
+
+> All activities reflect the content taught during the third semester of the Computer Science course at ULBRA Palmas.
 
 ---
 
