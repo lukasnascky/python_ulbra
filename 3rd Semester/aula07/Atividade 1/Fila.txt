@@ -1,0 +1,20 @@
+Fila - Queue
+Estatica
+Critério de Imersão e Remoção
+FIFO: First In - First Out
+PEPS: Primeiro a Entrar - Primeiro a Sair > Não comumente utilizado
+
+Funções de Fila: criar(__init__), inserir, remover, ver_primeiro, 
+   Para gerenciamento: esta_vazia, esta_cheia, show
+
+
+Dinamica
+As funções são as mesmas
+
+
+Prioridade
+Crescente = Menor valor maior prioridade
+Decrescente = Maior valor maior prioridade
+
+Para cada prioridade segue o FIFO porem no geral não segue FIFO
+

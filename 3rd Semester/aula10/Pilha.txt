@@ -1,0 +1,7 @@
+Pilha - Stack
+TAD cujo critério de inserção é remoção é:
+    LiFO: Last In - First Out
+    UEPS: Ultimo a Entrar - Primeiro a Sair
+
+Funções: construir(__init__), push(valor), pop(), ver_topo
+    esta_cheia, esta_vazia, show
