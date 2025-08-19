@@ -7,8 +7,8 @@ This repository is organized into sections to facilitate navigation, file discov
 - [1st Semester](#-1st-semester)
 - [2nd Semester](#-2nd-semester)
 - [3rd Semester](#-3rd-semester)
+- [5th Semester](#-5th-semester)
 - [Technologies Used](#-technologies-used)
-- [Author & Contact](#-author--contact)
 
 ---
 
@@ -118,6 +118,10 @@ This folder contains the activities developed during the **Data Structures** cou
 ## 5th Semester
 
 This folder contains the activities developed during the **Structures and Complexity of Algorithms** course, taught by [Professor Jackson G. de Souza](http://lattes.cnpq.br/7022849614714429)
+
+### Topics Covered
+
+---
 
 ## Technologies Used
 
