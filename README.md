@@ -1,4 +1,4 @@
-# 🐍 Python - ULBRA Palmas
+# Python - ULBRA Palmas
 
 Welcome to the repository of activities and projects developed during the **Computer Science** course at the **Lutheran University of Brazil (ULBRA), Palmas campus**.
 
@@ -12,11 +12,11 @@ This repository is organized into sections to facilitate navigation, file discov
 
 ---
 
-## 📚 1st Semester
+## 1st Semester
 
 This folder contains the activities developed during the **Algorithms and Programming** course, taught by [Professor Douglas A. Moreno](http://lattes.cnpq.br/3312128594028941).
 
-### 📌 Topics Covered
+### Topics Covered
 
 - **Python Fundamentals**  
   Introduction to syntax, variables, data types, and basic operations.
@@ -37,11 +37,11 @@ This folder contains the activities developed during the **Algorithms and Progra
 
 ---
 
-## 📘 2nd Semester
+## 2nd Semester
 
 This folder contains the activities developed during the **Laboratory of Programming** course, taught by [Professor Robson F. Gomes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do).
 
-### 📌 Topics Covered
+### Topics Covered
 
 - **Programming Structures**  
   Basic building blocks, conditional statements, and repetition structures (`for`, `while`, `if`, etc).
@@ -74,11 +74,11 @@ This folder contains the activities developed during the **Laboratory of Program
 
 ---
 
-## 📗 3rd Semester
+## 3rd Semester
 
 This folder contains the activities developed during the **Data Structures** course, taught by [Professor Fabiano Fagundes](http://lattes.cnpq.br/7309417394410594).
 
-### 📌 Topics Covered
+### Topics Covered
 
 - **Introduction to Data Structures**  
   Understanding the purpose and organization of data structures.
@@ -115,20 +115,12 @@ This folder contains the activities developed during the **Data Structures** cou
 
 ---
 
-## 🧪 Technologies Used
+## 5th Semester
+
+This folder contains the activities developed during the **Structures and Complexity of Algorithms** course, taught by [Professor Jackson G. de Souza](http://lattes.cnpq.br/7022849614714429)
+
+## Technologies Used
 
 - [Python](https://www.python.org/) – Main programming language  
 - [Git](https://git-scm.com/) – Version control  
 - [Visual Studio Code](https://code.visualstudio.com/) – Development environment  
-
----
-
-## 👤 Author & Contact
-
-Developed by **Lucas da Silva Nascimento** – [@lukasnascky](https://github.com/lukasnascky)  
-
-Feel free to get in touch:
-
-- ✉️ Email: [lucas.nascimento@rede.ulbra.br](mailto:lucas.nascimento@rede.ulbra.br)  
-- 📷 Instagram: [@lukas_nascky](https://www.instagram.com/lukas_nascky/)  
-- 💼 LinkedIn: [Lucas da Silva Nascimento](https://www.linkedin.com/in/lukasnascky/)
