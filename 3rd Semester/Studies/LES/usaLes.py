@@ -24,3 +24,10 @@ lista.show()
 
 lista.inserir_fim(23)
 lista.show()
+
+print(f"Remover um elemento: {lista.remover_fim()}")
+print(f"Remover um elemento: {lista.remover_fim()}")
+print(f"Remover um elemento: {lista.remover_fim()}")
+print(f"Remover um elemento: {lista.remover_fim()}")
+print(f"Remover um elemento: {lista.remover_fim()}")
+print(f"Remover um elemento: {lista.remover_fim()}") # aqui ele retornará False porque não há mais elementos a serem removidos
