@@ -8,7 +8,7 @@ class Lee:
         self.tam_maximo = tamanho
         self.vetor = [None] * self.tam_maximo
         self.quant = 0
-        self.prox_pos_vazio = self.inicializa_estrutura()
+        self.prox_pos_vazia = self.inicializa_estrutura()
         self.prox = -1
         self.ult = -1
 
@@ -19,8 +19,8 @@ class Lee:
         return 0
     
     def ocupa_no(self, valor, proximo):
-        posicao_livre = self.prox_pos_vazio
-        self.prox_pos_vazio = self.vetor[self.prox_pos_vazio].prox
+        posicao_livre = self.prox_pos_vazia
+        self.prox_pos_vazia = self.vetor[self.prox_pos_vazia].prox
         self.vetor[posicao_livre] = No(valor, proximo)
         return posicao_livre
     
@@ -32,4 +32,16 @@ class Lee:
             self.prim = self.ocupa_no(valor, self.prim)
             self.quant += 1
 
-    
+    def show(self):
+        aux = self.prim
+        while aux != -1:
+            print(self.vetor[aux].info)
+            aux = self.vetor[aux].prox
+
+    def show_vetor(self):
+        print('Prim=',self.prim)
+        print('Ult=',self.ult)
+        print('Primeira pos vazia=',self.prox_pos_vazia)
+        print('Vetor=')
+        for i in range(self.tam_maximo):
+            print(i, self.vetor[i].info, self.vetor[i].prox)
