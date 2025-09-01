@@ -4,17 +4,17 @@ Welcome to the repository of activities and projects developed during the **Comp
 
 This repository is organized into sections to facilitate navigation, file discovery, and maintenance.
 
-- [1st Semester](#-1st-semester)
-- [2nd Semester](#-2nd-semester)
-- [3rd Semester](#-3rd-semester)
-- [5th Semester](#-5th-semester)
+- [Algorithms and Programming](#-Algorithms-and-Programming)
+- [Laboratory of Programming](#-Laboratory-of-Programming)
+- [Data Structures](#-Data-Structures)
+- [Structures and Complexity of Algorithms](#-Structures-and-Complexity-of-Algorithms)
 - [Technologies Used](#-technologies-used)
 
 ---
 
-## 1st Semester
+## Algorithms and Programming
 
-This folder contains the activities developed during the **Algorithms and Programming** course, taught by [Professor Douglas A. Moreno](http://lattes.cnpq.br/3312128594028941).
+This folder contains the activities developed during the **Algorithms and Programming** course, taught by Professor [Douglas A. Moreno](http://lattes.cnpq.br/3312128594028941).
 
 ### Topics Covered
 
@@ -37,9 +37,9 @@ This folder contains the activities developed during the **Algorithms and Progra
 
 ---
 
-## 2nd Semester
+## Laboratory of Programming
 
-This folder contains the activities developed during the **Laboratory of Programming** course, taught by [Professor Robson F. Gomes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do).
+This folder contains the activities developed during the **Laboratory of Programming** course, taught by Professor [Robson F. Gomes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do).
 
 ### Topics Covered
 
@@ -74,9 +74,9 @@ This folder contains the activities developed during the **Laboratory of Program
 
 ---
 
-## 3rd Semester
+## Data Structures
 
-This folder contains the activities developed during the **Data Structures** course, taught by [Professor Fabiano Fagundes](http://lattes.cnpq.br/7309417394410594).
+This folder contains the activities developed during the **Data Structures** course, taught by Professor [Fabiano Fagundes](http://lattes.cnpq.br/7309417394410594).
 
 ### Topics Covered
 
@@ -115,9 +115,9 @@ This folder contains the activities developed during the **Data Structures** cou
 
 ---
 
-## 5th Semester
+## Structures and Complexity of Algorithms
 
-This folder contains the activities developed during the **Structures and Complexity of Algorithms** course, taught by [Professor Jackson G. de Souza](http://lattes.cnpq.br/7022849614714429)
+This folder contains the activities developed during the **Structures and Complexity of Algorithms** course, taught by Professor [Jackson G. de Souza](http://lattes.cnpq.br/7022849614714429)
 
 ### Topics Covered
 
