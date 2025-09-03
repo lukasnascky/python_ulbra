@@ -1,26 +1,27 @@
 class No:
-    def __init__(self, valor, proximo):
+    def __init__(self, anterior, valor, proximo):
+        self.ant = anterior
         self.info = valor
         self.prox = proximo
 
 
-class Ldse:
+class Ldde:
     def __init__(self):
         self.prim = self.ult = None
         self.quant = 0
 
     def inserir_inicio(self, valor):
         if self.quant == 0:
-            self.prim = self.ult = No(valor, None)
+            self.prim = self.ult = No(None, valor, None)
         else:
-            self.prim = No(valor, self.prim)
+            self.prim.ant = self.prim = No(None, valor, self.prim)
         self.quant += 1
-    
+
     def inserir_fim(self, valor):
         if self.quant == 0:
-            self.prim = self.ult = No(valor, None)
+            self.prim = self.ult = No(None, valor, None)
         else:
-            self.ult.prox = self.ult = No(valor, None)
+            self.ult.prox = self.ult = No(self.ult, valor, None)
         self.quant += 1
 
     def remover_inicio(self):
@@ -28,17 +29,15 @@ class Ldse:
             self.prim = self.ult = None
         else:
             self.prim = self.prim.prox
+            self.prim.ant = None
         self.quant -= 1
 
     def remover_fim(self):
         if self.quant == 1:
             self.prim = self.ult = None
         else:
-            aux = self.prim
-            while aux.prox != self.ult:
-                aux = aux.prox
-            aux.prox = None
-            self.ult = aux
+            self.ult = self.ult.ant
+            self.ult.prox = None
         self.quant -= 1
     
     def show(self):
@@ -47,12 +46,19 @@ class Ldse:
             print(aux.info, end=' ')
             aux = aux.prox
         print()
-        
-    def esta_vazia(self):
-        return self.quant == 0
+    
+    def show_inverso(self):
+        aux = self.ult
+        while aux != None:
+            print(aux.info, end=' ')
+            aux = aux.ant
+        print()
     
     def tamanho_atual(self):
         return self.quant
+
+    def esta_vazia(self):
+        return self.quant == 0
     
     def ver_primeiro(self):
         return self.prim.info
